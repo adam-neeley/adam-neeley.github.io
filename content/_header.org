@@ -1,0 +1,3 @@
+#+begin_center
+[[./index.html][🏠 Home]]   [[./projects.html][🚀 Projects]]   [[./blog.html][✍️ Blog]]   [[./about.html][ℹ️ About]]
+#+end_center

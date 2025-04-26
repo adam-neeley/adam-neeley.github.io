@@ -1,0 +1,37 @@
+#+title: About
+#+date: <2025-04-26 Sat>
+#+options: toc:nil num:nil html-postamble:nil
+
+#+include: ./_header.org
+
+Hello! I’m **Adam Neeley**, a software developer, AI researcher, and creative technologist with a lifelong passion for learning and teaching through code.
+
+* 💭 Philosophy
+- 🛠️ **Code as craft**
+  I strive to write code that is clear, correct, and a pleasure to read.
+- 🏗️ **Learning through building**
+  Tackling real problems cements new concepts.
+- 📚 **Share knowledge**
+  Teaching—via tutorials or documentation—sharpens my own understanding.
+
+* 🏆 Experience
+1. 👶 **Early start** · Began programming in Visual Basic at age 8, crafting simple games and utilities.
+2. 💡 **SICP epiphany** · Discovered *Structure and Interpretation of Computer Programs* at 18, igniting my love for functional programming.
+3. 🌐 **Web developer** · Designed, built, and maintained 100 + client sites across Northern California using static site generators and headless CMSs.
+4. 🎓 **Math graduate** · B.S. in Mathematics *Cum Laude* from University of Alaska, Fairbanks (2024).
+5. 🤖 **AI research** · Architected LSD-TRS, a symbolic term-rewriting system for analogical reasoning and puzzle solving.
+6. 🎥 **Content creator** · Produce and script programming tutorials on YouTube, covering Python, Haskell, and AI workflows.
+
+* 💼 Skills & Technology Stack
+| Category               | Tools & Technologies                             |
+|------------------------+--------------------------------------------------|
+| 💻 **Languages**        | Python · Haskell · JavaScript · TypeScript       |
+| 🔧 **Frameworks**       | Pygame · Manim · React · D3                      |
+| ⌨️ **Editors & Shell**  | Emacs (Org-mode) · Zsh                           |
+| 🐧 **OS & Env Mgmt**    | NixOS · Docker · Git · GitHub Actions            |
+| ✅ **Practices**        | TDD · CI/CD · Static Typing (MyPy, Pyright)      |
+
+* 📬 Contact
+- 🐙 **GitHub** :: <https://github.com/adam-neeley>
+- ▶️ **YouTube** :: <https://youtube.com/adam-neeley>
+- ✉️ **Email** :: adam@neeley.dev

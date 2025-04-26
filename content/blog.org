@@ -1,0 +1,20 @@
+#+title: 📒 Blog
+#+author: Adam Neeley
+#+date: <2025-04-26 Sat>
+#+options: toc:nil num:nil html-postamble:nil
+
+#+include: ./_header.org
+
+* 📝 Posts
+
+| 📅 Date     | 📰 Title                                         | 🔖 Status    |
+|--------------+---------------------------------------------------+---------------|
+| <2025-04-15> | [[./posts/org-publish-automation.html][Automating Org-Publish with Make & GitHub Actions]] | ✅ Published |
+| <2025-05-01> | [[./posts/implementing-trs.html][Implementing a Term-Rewriting System]]              | ✏️ Draft   |
+| <2025-05-10> | [[./posts/animation-toolkit.html][Animating Fractals with Python & Manim]]            | 🏗️ Planned |
+| <2025-05-10> | Creating fractals with Term-Rewriting Systems     | 🏗️ Planned |
+
+* 📬 Subscribe & Follow
+- RSS: [[https://example.com/rss.xml][Subscribe to RSS]]
+- Twitter: [[https://twitter.com/adam_neeley][@adam_neeley]]
+- GitHub: [[https://github.com/adam-neeley][@adam-neeley]]

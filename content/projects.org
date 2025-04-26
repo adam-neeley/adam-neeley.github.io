@@ -1,0 +1,41 @@
+#+TITLE: 🚀 Projects
+#+AUTHOR: Adam Neeley
+#+DATE: <2025-04-26 Sat>
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+
+#+include: ./_header.org
+
+* 🧩 LSD-TRS
+A learning string-driven term-rewriting system for analogical reasoning, puzzle solving, and real-world string-processing tasks.
+- 🔧 Tech: Python · MyPy · Pyright · pytest
+- ✔️ Confluence & termination guarantees
+- 🔄 Compositional rule libraries
+- 🛠️ Full Python API & CLI
+- 🌐 [[https://github.com/adam-neeley/lsd-trs][View on GitHub]]
+
+* 🎨 Animation Toolkit
+Python/Pygame & Manim scripts for interactive visualizations—fractals, random walks, Fourier transforms, and more.
+- 📦 [[https://github.com/adam-neeley/animation-toolkit][GitHub repo]]
+- 🧩 Modular Pygame components & Manim scenes
+- 📜 Example notebooks & demos
+
+* 🎬 Tutorial Pipeline
+Automated workflow converting annotated code into narrated video tutorials.
+- 🎥 MoviePy-based rendering & transitions
+- 🔊 Text-to-speech integration
+- 🔗 [[https://github.com/adam-neeley/video-pipeline][GitHub repo]]
+
+* 📝 Org-Powered Blog
+A literate-programming stack using Nix + Emacs Org-mode for writing, publishing, and versioning technical articles.
+- ⚙️ CI/CD via Make & GitHub Actions
+- 📚 Syntax-highlighted code snippets
+- 📰 RSS feeds & social sharing
+- 🌐 [[https://github.com/adam-neeley/org-blog][Source]]
+
+* 📦 Other Highlights
+- 🔍 **Deep Dive: Haskell’s Type System** — Advanced type features and patterns ([Blog post](./posts/deep-dive-haskell.html))
+- 🌐 **Static Site with Emacs & GitHub** — Org-Publish, CI, and deployment ([Blog post](./posts/static-website-emacs.html))
+- 🛠️ **CLI Tools** — `adam-cli` for project scaffolding and workflow automation ([GitHub repo](https://github.com/adam-neeley/adam-cli))
+
+* 📫 Explore More
+Visit my [[https://github.com/adam-neeley][GitHub profile]] for full project list and source code.

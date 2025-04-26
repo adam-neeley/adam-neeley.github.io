@@ -1,0 +1,77 @@
+#+TITLE:       Adam Neeley
+#+AUTHOR:      Adam Neeley
+#+OPTIONS:     toc:t num:nil
+#+EMAIL:       adam@neeley.dev
+#+property: COOKIE_DATA todo recursive
+#+property: header-args+ :exports code
+#+property: header-args+ :comments link
+
+* 🏠 Welcome
+:PROPERTIES:
+:CUSTOM_ID: welcome
+:END:
+
+Hello, I’m **Adam Neeley**, a **software developer**, **AI researcher**, and **creative technologist** with a passion for crafting elegant solutions and sharing knowledge.
+
+* 🗿 Projects
+:PROPERTIES:
+:CUSTOM_ID: projects
+:END:
+
+
+| 🧩 Letter String Domain | A **learning string‑driven term‑rewriting** system for analogical reasoning, puzzle solving, and real‑world string‑processing tasks. |
+| 🎨 Animation Toolkit    | Python/Pygame & Manim scripts for **visual explorations**—fractals, random walks, Fourier transforms, and more.                     |
+| 📝 Org‑Powered Blog      | A **literate‑programming stack** using Nix + Emacs Org‑mode for writing, publishing, and versioning **technical articles**.         |
+
+* 📝 Posts
+:PROPERTIES:
+:CUSTOM_ID: posts
+:END:
+
+| 📅 Date | 📰 Title | 🔖 Status |
+|----------+-----------+------------|
+|          |           |            |
+
+* 🪪 About
+:PROPERTIES:
+:CUSTOM_ID: about
+:END:
+
+** 💭 Philosophy
+:PROPERTIES:
+:CUSTOM_ID: philosophy
+:END:
+- 🛠️ **Code as Craft:** Clean, correct, and readable.
+- 🏗️ **Build to Learn:** Practical projects cement new concepts.
+- 📚 **Share Knowledge:** Teaching sharpens my own understanding.
+
+** 🏆 Experience
+:PROPERTIES:
+:CUSTOM_ID: experience
+:END:
+
+** 💼 Skills & Technology Stack
+:PROPERTIES:
+:CUSTOM_ID: skills-technology-stack
+:END:
+| Category | Tools & Technologies |
+|----------+----------------------|
+|          |                      |
+
+* 📬 Connect & Follow
+:PROPERTIES:
+:CUSTOM_ID: connect-follow
+:END:
+
+| Website       | Link                              |
+|---------------+-----------------------------------|
+| 🐙 Github    | <https://github.com/adam-neeley>  |
+| ▶️ YouTube | <https://youtube.com/adam-neeley> |
+
+#+begin_export html
+<div class="badges">
+  <a href="https://github.com/adam-neeley"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github"></a>
+  <a href="https://youtube.com/adam-neeley"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube"></a>
+  <a href="https://linkedin.com/in/adam-neeley"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin"></a>
+</div>
+#+end_export
